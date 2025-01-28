@@ -1,5 +1,4 @@
 
-
 # **Crypto Vault Management Contract**
 
 **CryptoVault** is a decentralized finance (DeFi) smart contract designed to help users securely manage and optimize their crypto assets, such as ETH, WETH, and DAI. With integrations like **Chainlink** for price feeds and **Uniswap V3** for decentralized trading, this contract provides advanced features like automatic portfolio rebalancing, ETH/WETH wrapping, and dividend distribution.
